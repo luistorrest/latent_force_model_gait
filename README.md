@@ -1,10 +1,10 @@
-# children_gait
+# Latent force models for gait pattern
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-gait pattern recognition
+Gait pattern recognition using Gaussian Processes 
 
 ## Project Organization
 
